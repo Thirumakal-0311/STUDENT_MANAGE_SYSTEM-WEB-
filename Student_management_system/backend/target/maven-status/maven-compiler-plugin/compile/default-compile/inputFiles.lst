@@ -1,0 +1,15 @@
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\config\WebConfig.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\controller\StudentController.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\dto\ApiResponse.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\dto\DashboardStatsDTO.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\dto\StudentRequestDTO.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\dto\StudentResponseDTO.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\entity\Student.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\exception\DuplicateResourceException.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\exception\ErrorResponse.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\exception\GlobalExceptionHandler.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\exception\ResourceNotFoundException.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\repository\StudentRepository.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\service\impl\StudentServiceImpl.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\service\StudentService.java
+C:\Users\thiru\Downloads\project 1\Student_management_system\backend\src\main\java\com\college\sms\StudentManagementApplication.java

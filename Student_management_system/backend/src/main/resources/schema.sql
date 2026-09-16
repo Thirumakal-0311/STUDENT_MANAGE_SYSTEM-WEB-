@@ -1,0 +1,19 @@
+CREATE TABLE IF NOT EXISTS students (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    student_id VARCHAR(30) NOT NULL UNIQUE,
+    full_name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) NOT NULL UNIQUE,
+    phone VARCHAR(20) NOT NULL,
+    date_of_birth DATE NOT NULL,
+    gender VARCHAR(20) NOT NULL,
+    department VARCHAR(100) NOT NULL,
+    year INT NOT NULL,
+    section VARCHAR(10),
+    address VARCHAR(255),
+    city VARCHAR(100),
+    state VARCHAR(100),
+    pincode VARCHAR(20),
+    admission_date DATE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+);
